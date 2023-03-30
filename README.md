@@ -1,10 +1,10 @@
-# OpenCV with Python in 4 Hours
-Notes and code used in my [**Python and OpenCV course**](https://youtu.be/oXlwWbU8l2o) on [freeCodeCamp.org](http://freecodecamp.org). You can find me on [Twitter](https://twitter.com/jasmcaus) for more info on courses I'm working on currently.
-
+# OpenCV with Python in 4 Hour
+This repository contains the code and resources from [FreeCodeCamp] course on OpenCV created by [jasmcaus](https://github.com/jasmcaus).
+The timestamps listed down in the README.md are links to the content
+in the YouTube video.
 
 ## Important Updates:
 `caer.train_val_split()` is a deprecated feature in [`caer`](https://github.com/jasmcaus/caer/). Use `sklearn.model_selection.train_test_split()` instead. See [#9](https://github.com/jasmcaus/opencv-course/issues/9) for more details.
-
 
 # Course Outline (with timestamps)
 ## 1. Installation
