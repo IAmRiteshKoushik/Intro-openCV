@@ -1,5 +1,5 @@
 # OpenCV with Python in 4 Hour
-This repository contains the code and resources from [FreeCodeCamp] course on OpenCV created by [jasmcaus](https://github.com/jasmcaus).
+This repository contains the code and resources from [FreeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o) course on OpenCV created by [jasmcaus](https://github.com/jasmcaus).
 The timestamps listed down in the README.md are links to the content
 in the YouTube video.
 
